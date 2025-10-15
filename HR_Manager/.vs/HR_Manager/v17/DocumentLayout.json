@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Study\\CSharp_Study\\HR_Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\model\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\model\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\model\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\model\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\context\\hrmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\context\\hrmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\model\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\model\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\model\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\model\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\model\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\model\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\model\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\model\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -33,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\context\\hrmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\context\\hrmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|c:\\study\\csharp_study\\hr_manager\\hr_manager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{007B3CDA-1ADE-4C2E-A7B5-FB8B2FBFA269}|HR_Manager\\HR_Manager.csproj|solutionrelative:hr_manager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,95 +46,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Departament.cs",
-              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Departament.cs",
-              "RelativeDocumentMoniker": "HR_Manager\\Model\\Departament.cs",
-              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Departament.cs",
-              "RelativeToolTip": "HR_Manager\\Model\\Departament.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T02:09:59.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Salary.cs",
-              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Salary.cs",
-              "RelativeDocumentMoniker": "HR_Manager\\Model\\Salary.cs",
-              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Salary.cs",
-              "RelativeToolTip": "HR_Manager\\Model\\Salary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T02:01:03.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Title.cs",
-              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Title.cs",
-              "RelativeDocumentMoniker": "HR_Manager\\Model\\Title.cs",
-              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Title.cs",
-              "RelativeToolTip": "HR_Manager\\Model\\Title.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T02:04:48.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenderEnum.cs",
-              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\GenderEnum.cs",
-              "RelativeDocumentMoniker": "HR_Manager\\Model\\GenderEnum.cs",
-              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\GenderEnum.cs",
-              "RelativeToolTip": "HR_Manager\\Model\\GenderEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T01:57:35.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Employee.cs",
-              "RelativeDocumentMoniker": "HR_Manager\\Model\\Employee.cs",
-              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Employee.cs",
-              "RelativeToolTip": "HR_Manager\\Model\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T01:55:11.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\appsettings.Development.json",
               "RelativeDocumentMoniker": "HR_Manager\\appsettings.Development.json",
               "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\appsettings.Development.json",
               "RelativeToolTip": "HR_Manager\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-15T01:45:19.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T03:43:11.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "Departament.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Departament.cs",
+              "RelativeDocumentMoniker": "HR_Manager\\Model\\Departament.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Departament.cs",
+              "RelativeToolTip": "HR_Manager\\Model\\Departament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:09:59.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "HR_Manager\\Model\\Employee.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Employee.cs",
+              "RelativeToolTip": "HR_Manager\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T01:55:11.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Salary.cs",
+              "RelativeDocumentMoniker": "HR_Manager\\Model\\Salary.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Salary.cs",
+              "RelativeToolTip": "HR_Manager\\Model\\Salary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:01:03.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Title.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Title.cs",
+              "RelativeDocumentMoniker": "HR_Manager\\Model\\Title.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Model\\Title.cs",
+              "RelativeToolTip": "HR_Manager\\Model\\Title.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:04:48.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "HrManagerContext.cs",
               "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Context\\HrManagerContext.cs",
               "RelativeDocumentMoniker": "HR_Manager\\Context\\HrManagerContext.cs",
               "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Context\\HrManagerContext.cs",
               "RelativeToolTip": "HR_Manager\\Context\\HrManagerContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T01:31:28.831Z",
               "EditorCaption": ""
@@ -151,14 +129,13 @@
               "RelativeDocumentMoniker": "HR_Manager\\Program.cs",
               "ToolTip": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Program.cs",
               "RelativeToolTip": "HR_Manager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T01:07:55.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T01:07:55.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "HR_Manager\\Properties\\launchSettings.json",
@@ -166,12 +143,11 @@
               "RelativeToolTip": "HR_Manager\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-14T03:21:06.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T03:21:06.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Study\\CSharp_Study\\HR_Manager\\HR_Manager\\appsettings.json",
               "RelativeDocumentMoniker": "HR_Manager\\appsettings.json",
@@ -179,8 +155,7 @@
               "RelativeToolTip": "HR_Manager\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-14T03:20:58.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T03:20:58.172Z"
             }
           ]
         }
