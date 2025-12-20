@@ -1,6 +1,0 @@
-@HR_Manager_HostAddress = http://localhost:5251
-
-GET {{HR_Manager_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

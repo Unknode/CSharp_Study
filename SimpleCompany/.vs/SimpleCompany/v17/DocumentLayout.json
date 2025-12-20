@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\CSharp_Study\\SimpleCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\simplecompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\simplecompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Services\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Services\\CustomerServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Services\\CustomerServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Services\\CustomerServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:29:03.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleCompanyContext.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\SimpleCompanyContext.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\SimpleCompanyContext.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\SimpleCompanyContext.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\SimpleCompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:28:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SimpleCompany\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:28:34.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Model\\Employee.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Model\\Employee.cs",
+              "RelativeToolTip": "SimpleCompany\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:27:11.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Model\\Customer.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Model\\Customer.cs",
+              "RelativeToolTip": "SimpleCompany\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:22:21.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
