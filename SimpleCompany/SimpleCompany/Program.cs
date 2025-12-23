@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SimpleCompany.Context;
-using SimpleCompany.Services;
+using SimpleCompany.Context.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

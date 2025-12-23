@@ -1,12 +1,223 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Study\\CSharp_Study\\SimpleCompany\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\services\\productlineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\services\\productlineservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\services\\paymentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\services\\paymentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\services\\orderdetailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\services\\orderdetailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\services\\officeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\services\\officeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\context\\simplecompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\context\\simplecompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|c:\\study\\csharp_study\\simplecompany\\simplecompany\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97D55-E6BB-45E7-A040-0C1584D95EDB}|SimpleCompany\\SimpleCompany.csproj|solutionrelative:simplecompany\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductLineServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\ProductLineServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\Services\\ProductLineServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\ProductLineServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\Services\\ProductLineServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:08:02.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\ProductServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\Services\\ProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:07:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\PaymentServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\Services\\PaymentServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\PaymentServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\Services\\PaymentServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:07:38.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetailServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\OrderDetailServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\Services\\OrderDetailServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\OrderDetailServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\Services\\OrderDetailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:07:24.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\Services\\OrderServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\OrderServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\Services\\OrderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:07:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OfficeServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\OfficeServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\Services\\OfficeServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\OfficeServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\Services\\OfficeServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:06:22.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\Services\\EmployeeServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\Services\\EmployeeServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T03:06:10.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\Services\\CustomerServices.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\Services\\CustomerServices.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\Services\\CustomerServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:29:03.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimpleCompanyContext.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\SimpleCompanyContext.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Context\\SimpleCompanyContext.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Context\\SimpleCompanyContext.cs",
+              "RelativeToolTip": "SimpleCompany\\Context\\SimpleCompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:28:37.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Model\\Employee.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Model\\Employee.cs",
+              "RelativeToolTip": "SimpleCompany\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:27:11.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SimpleCompany\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:28:34.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "SimpleCompany\\Model\\Customer.cs",
+              "ToolTip": "C:\\Study\\CSharp_Study\\SimpleCompany\\SimpleCompany\\Model\\Customer.cs",
+              "RelativeToolTip": "SimpleCompany\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:22:21.37Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

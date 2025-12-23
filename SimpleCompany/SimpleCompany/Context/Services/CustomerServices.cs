@@ -1,7 +1,7 @@
 ﻿using SimpleCompany.Context;
 using SimpleCompany.Model;
 
-namespace SimpleCompany.Services
+namespace SimpleCompany.Context.Services
 {
     public class CustomerServices
     {
@@ -20,6 +20,25 @@ namespace SimpleCompany.Services
         public List<Customer> GetCustomers()
         {
             return _context.Customers.ToList();
+        }
+
+        public void DeleteCustomer (int id) {
+
+            var customerToDelete = GetCustomer(id);
+            _context.Customers.Remove(customerToDelete);
+
+            _context.SaveChanges();
+        }
+
+        public Customer UpdateCustomer(Customer customer) {
+
+            if (customer == null)
+                return null;
+
+            _context.Customers.Update(customer);
+            _context.SaveChanges();
+
+            return customer;
         }
     }
 }

@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SimpleCompany.Services;
+using SimpleCompany.Context.Services;
 
 namespace SimpleCompany.Controllers
 {
