@@ -5,7 +5,6 @@ namespace SimpleCompany.Context.Services
     public class OrderServices
     {
         private SimpleCompanyContext _context;
-
         public OrderServices(SimpleCompanyContext context)
         {
             _context = context;
@@ -15,7 +14,6 @@ namespace SimpleCompany.Context.Services
         {
             return _context.Orders.FirstOrDefault(x => x.OrderNumber == id);
         }
-
         public List<Order> GetOrders()
         {
             return _context.Orders.ToList();

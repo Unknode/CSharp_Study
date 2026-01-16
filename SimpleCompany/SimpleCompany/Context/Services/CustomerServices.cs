@@ -5,7 +5,6 @@ namespace SimpleCompany.Context.Services
 {
     public class CustomerServices
     {
-
         private readonly SimpleCompanyContext _context;
 
         public CustomerServices(SimpleCompanyContext context)

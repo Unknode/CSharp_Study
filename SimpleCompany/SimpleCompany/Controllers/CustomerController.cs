@@ -11,6 +11,12 @@ namespace SimpleCompany.Controllers
 
         public CustomerController(CustomerServices service) { _service = service; }
 
+        [HttpGet("{id}")]
+        public IActionResult GetCustomer(int id)
+        {
+            return Ok(_service.GetCustomer(id));
+        }
+
         [HttpGet]
         public IActionResult GetCustomers()
         {

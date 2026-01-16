@@ -15,6 +15,13 @@ builder.Services.AddDbContext<SimpleCompanyContext>(options => options.UseMySQL(
 
 builder.Services.AddScoped<SimpleCompanyContext, SimpleCompanyContext>();
 builder.Services.AddScoped<CustomerServices, CustomerServices>();
+builder.Services.AddScoped<EmployeeServices, EmployeeServices>();
+builder.Services.AddScoped<ProductServices, ProductServices>();
+builder.Services.AddScoped<ProductLineServices, ProductLineServices>();
+builder.Services.AddScoped<OfficeServices, OfficeServices>();
+builder.Services.AddScoped<OrderServices, OrderServices>();
+builder.Services.AddScoped<PaymentServices, PaymentServices>();
+
 
 var app = builder.Build();
 

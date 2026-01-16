@@ -20,7 +20,6 @@ namespace SimpleCompany.Context.Services
         {
             return _context.Offices.ToList();
         }
-
         public void DeleteOffice(string id)
         {
             var officeToDelete = GetOffice(id);

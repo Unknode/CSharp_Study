@@ -10,7 +10,6 @@ namespace SimpleCompany.Context.Services
         {
             _context = context;
         }
-
         public Payment GetPayment(int customerId)
         {
             return _context.Payments.FirstOrDefault(x => x.CustomerNumber == customerId);

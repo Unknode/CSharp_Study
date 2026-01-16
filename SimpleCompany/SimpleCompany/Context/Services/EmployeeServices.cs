@@ -5,7 +5,6 @@ namespace SimpleCompany.Context.Services
     public class EmployeeServices
     {
         private SimpleCompanyContext _context;
-
         public EmployeeServices(SimpleCompanyContext context)
         {
             _context = context;
