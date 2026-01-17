@@ -1,4 +1,5 @@
-﻿using SimpleCompany.Context;
+﻿using Microsoft.EntityFrameworkCore;
+using SimpleCompany.Context;
 using SimpleCompany.Model;
 
 namespace SimpleCompany.Context.Services
@@ -18,7 +19,7 @@ namespace SimpleCompany.Context.Services
         }
         public List<Customer> GetCustomers()
         {
-            return _context.Customers.ToList();
+            return _context.Customers.Include(x => x.).ToList();
         }
 
         public void DeleteCustomer (int id) {

@@ -24,9 +24,11 @@ namespace SimpleCompany.Model
 
         [Column("comments")]
         public string? Comments { get; set; }
-
-
-        public Customer Customer { get; set; }
+       
+        [Column("customerNumber")]
         public int CustomerNumber { get; set; }
+
+        [ForeignKey(nameof(CustomerNumber))]
+        public Customer Customer { get; set; }
     }
 }

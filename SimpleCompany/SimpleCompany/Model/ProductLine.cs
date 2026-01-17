@@ -14,6 +14,6 @@ namespace SimpleCompany.Model
         public string? TextDescription { get; set; }
 
         [Column("htmlDescription")]
-        public string HTMLDescription { get; set; }
+        public string? HTMLDescription { get; set; }
     }
 }

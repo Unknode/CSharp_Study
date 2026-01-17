@@ -10,7 +10,11 @@ namespace SimpleCompany.Model
         [Key]
         public int CustomerNumber { get; set; }
 
+        [ForeignKey(nameof(CustomerNumber))]
+        public Customer Customer { get; set; }
+
         [Column("checkNumber")]
+        [Key]
         public string CheckNumber { get; set; }
 
         [Column("paymentDate")]

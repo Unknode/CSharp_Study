@@ -9,7 +9,7 @@ namespace SimpleCompany.Model
         [Column("employeeNumber")]
         [Key]
         public int EmployeeNumber { get; set; }
-
+       
         [Column("firstName")]
         public string FirstName { get; set; }
 
@@ -24,6 +24,9 @@ namespace SimpleCompany.Model
 
         [Column("officeCode")]
         public string OfficeCode { get; set; }
+
+        [ForeignKey(nameof(OfficeCode))]
+        public Office Office { get; set; }
 
         [Column("reportsTo")]
         public int? ReportsTo { get; set; }

@@ -1,4 +1,5 @@
-﻿using SimpleCompany.Model;
+﻿using Microsoft.EntityFrameworkCore;
+using SimpleCompany.Model;
 
 namespace SimpleCompany.Context.Services
 {
@@ -17,9 +18,7 @@ namespace SimpleCompany.Context.Services
 
         public List<Payment> GetPayments()
         {
-            return _context.Payments.ToList();
-        }
-
-    
+            return _context.Payments.Include(x => x.Customer).ToList();
+        }    
     }
 }

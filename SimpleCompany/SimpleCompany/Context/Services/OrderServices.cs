@@ -1,4 +1,5 @@
-﻿using SimpleCompany.Model;
+﻿using Microsoft.EntityFrameworkCore;
+using SimpleCompany.Model;
 
 namespace SimpleCompany.Context.Services
 {
@@ -16,7 +17,7 @@ namespace SimpleCompany.Context.Services
         }
         public List<Order> GetOrders()
         {
-            return _context.Orders.ToList();
+            return _context.Orders.Include(x => x.Customer).ToList();
         }
 
         public void DeleteOrders(int id)
