@@ -61,3 +61,4 @@ C:\Study\CSharp_Study\SimpleCompany\SimpleCompany\obj\Debug\net8.0\refint\Simple
 C:\Study\CSharp_Study\SimpleCompany\SimpleCompany\obj\Debug\net8.0\SimpleCompany.pdb
 C:\Study\CSharp_Study\SimpleCompany\SimpleCompany\obj\Debug\net8.0\SimpleCompany.genruntimeconfig.cache
 C:\Study\CSharp_Study\SimpleCompany\SimpleCompany\obj\Debug\net8.0\ref\SimpleCompany.dll
+C:\Study\CSharp_Study\SimpleCompany\SimpleCompany\obj\Debug\net8.0\swae.build.ex.cache

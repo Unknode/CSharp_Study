@@ -7,7 +7,6 @@ namespace SimpleCompany.Model
     public class Payment
     {
         [Column("customerNumber")]
-        [Key]
         public int CustomerNumber { get; set; }
 
         [ForeignKey(nameof(CustomerNumber))]

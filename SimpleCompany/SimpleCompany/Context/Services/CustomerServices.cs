@@ -19,7 +19,7 @@ namespace SimpleCompany.Context.Services
         }
         public List<Customer> GetCustomers()
         {
-            return _context.Customers.Include(x => x.).ToList();
+            return _context.Customers.ToList();
         }
 
         public void DeleteCustomer (int id) {

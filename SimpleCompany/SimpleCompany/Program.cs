@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SimpleCompany.Context;
 using SimpleCompany.Context.Services;
@@ -22,6 +23,11 @@ builder.Services.AddScoped<OfficeServices, OfficeServices>();
 builder.Services.AddScoped<OrderServices, OrderServices>();
 builder.Services.AddScoped<PaymentServices, PaymentServices>();
 
+builder.Services.AddCors(options => options.AddPolicy(
+     "AllowAll",
+     p => p.AllowAnyOrigin()
+     .AllowAnyMethod()
+     .AllowAnyHeader()));
 
 var app = builder.Build();
 
@@ -37,5 +43,8 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseCors("AllowAll");
+app.UseCors(cors => cors.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
 
 app.Run();
